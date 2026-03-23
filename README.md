@@ -82,7 +82,7 @@ gcc tableau.c -o tableau
 
 ```
 .
-├── tableau.c
+├── main.c
 └── README.md
 ```
 
